@@ -1,0 +1,2 @@
+# mypython
+some easy projects
